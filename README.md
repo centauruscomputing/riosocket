@@ -1,4 +1,4 @@
-# riosocket
+# Riosocket
 Centaurus Computing's RIOSockets package implements a socket interface over RapidIO® fabric enabling unmodified socket application to run on top of RapidIO® fabric . This  enables the usage of ubiquitous software ecosystem developed around Ethernet on RapidIO® fabric, thus 
 reducing the time to market and total cost of ownership for the user.
 
