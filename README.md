@@ -17,25 +17,24 @@ In view of user flexibility, RIOSocket package is functionally split into two su
 
 #RIOSocket – Basic Features
 
-RapidIO fabric enumeration
-Ethernet emulation over RapidIO fabric using standard TCP/IP stack
-Ability to run standard unmodified Socket library based utilities like sftp, scp, etc on RapidIO fabric 
-Ability to run standard communication middlewares like Hadoop or OpenMPI
-Sustained application level throughput measured by standard iperf utility in excess of 14 Gbps.
-Support for  100s of node support
-Support for x86 architecture. Support on other architectures can be added on request basis.
+1. Ethernet emulation over RapidIO fabric using standard TCP/IP stack
+2. Ability to run standard unmodified Socket library based utilities like sftp, scp, etc on RapidIO fabric 
+3. Ability to run standard communication middlewares like Hadoop or OpenMPI
+4. Sustained application level throughput measured by standard iperf utility in excess of 14 Gbps.
+5. Support for  100s of node support
+6. Support for x86 architecture. Support on other architectures can be added on request basis.
 
 #RIOSocket – Advanced Features
 
-RapidIO fabric enumeration
-Ethernet emulation over RapidIO fabric using standard TCP/IP stack
-TCP/IP Stack bypass for latency sensitive application achieving sub-two micro second latency. 
-Socket Switch to select between the above two transport paths
-Multiple NIC support providing link aggregation and redundancies
-Ethernet fail-safe on RapidIO link failure
-Ability to run standard unmodified Socket library based utilities like sftp, scp, etc on RapidIO fabric  
-Ability to run standard communication middlewares like Hadoop or OpenMPI
-Sustained application level throughput measured by standard iperf utility in excess of 14 Gbps
-Application point to point latency of < 1-2 usec for small packet sizes.
-Support for 100s of nodes
-Support of x86 architecture. Support on other architectures can be added on request basis.
+1. RapidIO fabric enumeration
+2. Ethernet emulation over RapidIO fabric using standard TCP/IP stack
+3. TCP/IP Stack bypass for latency sensitive application achieving sub-two micro second latency. 
+4. Socket Switch to select between the above two transport paths
+5. Multiple NIC support providing link aggregation and redundancies
+6. Ethernet fail-safe on RapidIO link failure
+7. Ability to run standard unmodified Socket library based utilities like sftp, scp, etc on RapidIO fabric  
+8. Ability to run standard communication middlewares like Hadoop or OpenMPI
+9. Sustained application level throughput measured by standard iperf utility in excess of 14 Gbps
+10. Application point to point latency of < 1-2 usec for small packet sizes.
+11. Support for 100s of nodes
+12. Support of x86 architecture. Support on other architectures can be added on request basis.
