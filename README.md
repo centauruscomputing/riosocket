@@ -1,5 +1,5 @@
 # Riosocket
-Centaurus Computing's RIOSockets package implements a socket interface over RapidIO® fabric enabling unmodified socket application to run on top of RapidIO® fabric . This  enables the usage of ubiquitous software ecosystem developed around Ethernet on RapidIO® fabric, thus 
+RIOSockets package implements a socket interface over RapidIO® fabric enabling unmodified socket application to run on top of RapidIO® fabric . This  enables the usage of ubiquitous software ecosystem developed around Ethernet on RapidIO® fabric, thus 
 reducing the time to market and total cost of ownership for the user.
 
 RIOSockets  package enables very high application level data stream performance in excess of 14 Gbit/s using a Gen2(5 Gbps) x4 RapidIO® links with low CPU utilization, thus freeing up the CPU to consume the high speed data being deposited over the RapidIO® link.
