@@ -18,7 +18,7 @@
  *
  * ********************************************************************/
 
-#define RIOSOCKET_VERSION		"1.01.01-rc07"
+#define RIOSOCKET_VERSION		"1.01.01"
 #define TSI721_VENDOR_ID                0x0038
 #define TSI721_DEVICE_ID                0x80AB
 
